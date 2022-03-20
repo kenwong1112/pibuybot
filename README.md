@@ -1,2 +1,2 @@
 # pibuybot
-pi buy bot
+pi buy bot requires: sudo apt install chromium-chromedriver
